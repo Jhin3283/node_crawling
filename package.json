@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_google_image_crawling_selenium",
+  "version": "1.0.0",
+  "description": "Google image crawling with NodeJS and Selenium.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": {
+    "name": "ppojun",
+    "email": "120106@naver.com",
+    "url": "https://github.com/ppojun"
+  },
+  "bugs": {
+    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium/issues",
+    "email": "120106@naver.com"
+  },
+  "license": "MIT License",
+  "dependencies": {
+    "https": "^1.0.0",
+    "selenium-webdriver": "^4.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ppojun/nodejs_google_image_crawling_selenium"
+  }
+}
